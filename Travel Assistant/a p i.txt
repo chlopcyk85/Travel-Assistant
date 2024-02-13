@@ -1,0 +1,4 @@
+Usuń 3 spacje i ciesz się programem.
+
+api_openai=sk-HLKnTBGud2WOT38s6 v2tT3BlbkFJUDF QEefQInktw tsoLe4c
+
